@@ -1,0 +1,6 @@
+# ------------------------------------------------------------------------------
+# Ana çalışma makinelerinde kullanılan düzen
+# ------------------------------------------------------------------------------
+
+# Mutt
+# new-window "exec x-tmux-launch -t 11 -n posta -c mutt x-respawn mutt"
